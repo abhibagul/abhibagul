@@ -71,7 +71,11 @@ alt="typescript" width="40" height="40" /> </a>
      <a href="https://jquery.com" target="_blank"
 rel="noreferrer">
 <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png"
-alt="typescript"  height="40" /> </a>          
+alt="typescript"  height="40" /> </a>     
+<a href="https://extendscript.docsforadobe.dev/" target="_blank"
+rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/5243246?s=200&v=4"
+alt="typescript" width="40" height="40" /> </a>   
 </p>
 
 <h3 align="left">Tools:</h3>
