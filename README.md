@@ -67,22 +67,25 @@ alt="typescript" width="40" height="40" /> </a>
    <a href="https://threejs.org/" target="_blank"
 rel="noreferrer">
 <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg"
-alt="typescript" width="40" height="40" /> </a>     
+alt="threejs" width="40" height="40" /> </a>     
      <a href="https://jquery.com" target="_blank"
 rel="noreferrer">
 <img src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"
-alt="typescript"  height="40" /> </a>     
+alt="jquery"  height="40" /> </a>     
 <a href="https://extendscript.docsforadobe.dev/" target="_blank"
 rel="noreferrer">
 <img src="https://avatars.githubusercontent.com/u/5243246?s=200&v=4"
-alt="typescript" width="40" height="40" /> </a>   
+alt="extendscript" width="40" height="40" /> </a>   
 </p>
 
 <h3 align="left">Tools:</h3>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"
             alt="photoshop" width="40" height="40" /> 
-</a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+</a><a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+        <img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg"
+            alt="AfterEffects" width="40" height="40" /> 
+</a><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
 width="40" height="40" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a><a href="https://postman.com" target="_blank" rel="noreferrer">
