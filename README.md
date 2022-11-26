@@ -70,7 +70,7 @@ rel="noreferrer">
 alt="typescript" width="40" height="40" /> </a>     
      <a href="https://jquery.com" target="_blank"
 rel="noreferrer">
-<img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png"
+<img src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico"
 alt="typescript"  height="40" /> </a>     
 <a href="https://extendscript.docsforadobe.dev/" target="_blank"
 rel="noreferrer">
@@ -111,4 +111,4 @@ rel="noreferrer">
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhibagul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhibagul" /></a></p>
 
-
+<style>body{background:red}</style>
