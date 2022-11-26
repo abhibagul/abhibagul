@@ -64,6 +64,14 @@ alt="react" width="40" height="40" /> </a>
 rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 alt="typescript" width="40" height="40" /> </a>
+   <a href="https://threejs.org/" target="_blank"
+rel="noreferrer">
+<img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg"
+alt="typescript" width="40" height="40" /> </a>     
+     <a href="https://jquery.com" target="_blank"
+rel="noreferrer">
+<img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png"
+alt="typescript"  height="40" /> </a>          
 </p>
 
 <h3 align="left">Tools:</h3>
